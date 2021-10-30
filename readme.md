@@ -27,7 +27,7 @@ This is used to programmatically add a specific amount of funds to your 3Commas 
     4. The contents next to `-H 'cookie: ` in this file are what you need to copy. Remove the trailing `' \` from the end of the string.
     5. Paste into the cookie.txt file. Make sure to **not** include the `-H 'cookie: ` or `' \`
 
-## 7. Run the function
+7. Run the function
 
     Replace the `account_id` with your paper trading account id and `total_funds` with the total amount of funds you want to add to paper
 
